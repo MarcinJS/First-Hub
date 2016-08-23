@@ -1,0 +1,29 @@
+{
+  "name": "kodilla-grunt-example",
+  "version": "1.0.0",
+  "description": "Example grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinJS/First-Hub.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Marcin Misiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinJS/First-Hub/issues"
+  },
+  "homepage": "https://github.com/MarcinJS/First-Hub#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  }
+}
